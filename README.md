@@ -30,3 +30,5 @@ The dashboard includes charts, animations, and brief descriptions to help users 
 ## Demo
 
 [Watch the NBA Team Success Dashboard Demo](https://drive.google.com/file/d/1JxmifwLaiRyngCbHYwqdNu0ANIS0yL_r/view?usp=sharing)
+
+Demo video showing the dashboard interface, interactive filters, charts, and animated visualizations.
