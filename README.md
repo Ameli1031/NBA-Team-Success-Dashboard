@@ -37,7 +37,7 @@ Demo video showing the dashboard interface, interactive filters, charts, and ani
 
 ![Dashboard Overview](dashboard_overview.png)
 
-![Dashboard Overview2](dashboard_overview(2).png)
+![Dashboard Detail](dashboard_detail.png)
 
-![Dashboard Overview3](dashboard_overview(3).png)
+![Dashboard Animation](dashboard_animation.png)
 
